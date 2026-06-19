@@ -148,3 +148,5 @@ require (
 	gopkg.in/tylerb/graceful.v1 v1.2.15 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
+
+replace github.com/stellar/go-stellar-sdk => github.com/felixl256/go-stellar-sdk v0.6.0-closetime
